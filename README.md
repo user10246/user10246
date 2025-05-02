@@ -2,7 +2,7 @@
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 2263630968@qq.com
+- 📫 How to reach me outlook_7057b402b5ce1864@outlook.com
 
 <!---
 user10246/user10246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
